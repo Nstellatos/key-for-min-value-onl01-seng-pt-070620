@@ -10,5 +10,5 @@ hash.each do |key,value|
     lowest_key = key
   end
 end
-key_for_min_value
+lowest_key
 end
